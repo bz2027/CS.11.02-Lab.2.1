@@ -13,9 +13,14 @@ public class Main {
     }
 
     // 1. add
-    
-    // 2. add
+public int add(int num1, int num2){
 
+    return (num1 + num2);
+    }
+    // 2. add
+public int add(int num1, int num2, int num3, int num4) {
+        return (num1 + num2 + num3 + num4);
+    }
     // 3. morningGreeting
 
     // 4. afternoonGreeting
